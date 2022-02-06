@@ -1,6 +1,6 @@
 ###  ola, sou noll silva 👋
 
-- 🔭 atualmente estudo com front-end
+- 🔭 atualmente estudo front-end
 - 🌱 estudando js...
 - 👯 estou em fase de aprendizado
 - 📫 contacte-me sem email: nollramwislen2017@gmal.com
