@@ -2,7 +2,7 @@
 
 - 🔭 atualmente estudo front-end
 - 🌱 estudando js...
-- 👯 estou em fase de aprendizado
+- 👯 adiquiro conhecimento com muita velocidade
 - 📫 contacte-me sem email: nollramwislen2017@gmal.com
 - 😄 Pronomes: ele /dele
 
