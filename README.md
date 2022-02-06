@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/noll-silva-9a40a8228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
- ![ animação de cobra ](https://github.com/nollsilva/nollsilva/blob/output/github-contriutiongrid-snake.svg) 
+ ![Snake animation](https://github.com/nollsilva/nollsilva/blob/output/github-contriutiongrid-snake.svg) 
