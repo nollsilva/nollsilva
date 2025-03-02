@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor back-end
 - 🌱 estudando node.js...
 - 👯 variados projetos
-- 📫 contacte-me atraves do email: nollramwislen2017@gmal.com
+- 📫 contacte-me atraves do email: nollramwislen2017@gmail.com
 
 <div align="center">
   <a href="https://github.com/nollsilva">
